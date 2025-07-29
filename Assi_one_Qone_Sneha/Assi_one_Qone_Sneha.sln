@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assi_one_Qone_Sneha", "Assi_one_Qone_Sneha\Assi_one_Qone_Sneha.csproj", "{DD9938C9-5738-4CA6-A1A9-919AD4A087A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9938C9-5738-4CA6-A1A9-919AD4A087A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9938C9-5738-4CA6-A1A9-919AD4A087A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9938C9-5738-4CA6-A1A9-919AD4A087A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9938C9-5738-4CA6-A1A9-919AD4A087A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FCC2F5-744A-4A3D-81A5-61CBB209DFFD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assi_three_Qthree_Sneha", "assi_three_Qthree_Sneha\assi_three_Qthree_Sneha.csproj", "{0DEFF6DA-A6A1-49DF-B3FE-3A9D14896759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEFF6DA-A6A1-49DF-B3FE-3A9D14896759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEFF6DA-A6A1-49DF-B3FE-3A9D14896759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEFF6DA-A6A1-49DF-B3FE-3A9D14896759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEFF6DA-A6A1-49DF-B3FE-3A9D14896759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A047CADF-6460-481D-9B24-69927F58532B}
+	EndGlobalSection
+EndGlobal
