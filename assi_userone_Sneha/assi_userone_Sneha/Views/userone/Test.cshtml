@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Test";
+}
+
+<h2>Test</h2>
+
+<h2>Enter a string number:</h2>
+<form method="post" asp_action="Test">
+    <input type="number" name="uservalue" value="@ViewBag.value">
+    <button type="submit">submit</button>
+</form>
+@for(int i=1;i<=10;i++)
+            {
+                <p>@ViewBag.value x @i=@(ViewBag.value * i)</p>
+            }
