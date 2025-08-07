@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "oddnum";
+}
+
+<h2>oddnum</h2>
+
+@{ 
+    if(ViewBag.value%2 !=0)
+    {
+        ViewBag.Value = ViewBag.Value + 1;
+    }
+}
+<form asp-action="oddnum" method="post">
+    <input type="text" name="uservalue" value="@ViewBag.Value"/>
+    <button type="submit">submit</button>
+</form>
+
+@for(int i=1;i<=100;i+=2)
+{
+    var oddnumber = ViewBag.Value + i;
+    @oddnumber<br/>
+}

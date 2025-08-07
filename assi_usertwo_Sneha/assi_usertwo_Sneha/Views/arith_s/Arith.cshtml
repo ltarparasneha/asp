@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Arith";
+}
+
+<h2>Arith</h2>
+
+<form asp-action="Arith" method="post">
+   
+    <input type="number" name="valueA"  value="@ViewBag.valueA" required />
+  
+  
+    <input type="number" name="valueB" value="@ViewBag.valueB" required />
+    
+    <button type="submit">submit</button>
+</form>
+
+
+@if (ViewBag.Result != null)
+{
+    <h3>Result: @ViewBag.Result</h3>
+}
